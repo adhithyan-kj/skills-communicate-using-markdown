@@ -6,3 +6,6 @@
 # h6 Heading 6
 Heading formatting done
 ![Image of Lion](https://github.com/user-attachments/assets/197a59ed-3ad9-4b65-8234-e19fbbcb40e6)
+``` javascript
+var myVar = "Hello, world!";
+```
